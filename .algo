@@ -1,0 +1,12 @@
+ALGORITHM tri par insertion
+VAR
+i:INTEGER j:INTEGER
+BEGIN
+FOR i FROM i=n-1 TO n STEP step  DO
+t=i ; j=i
+WHILE (j>i) and (t(j-1)) > DO
+T(j):=t(j-i):
+j:=j-1;
+END_WHILE
+END_FOR
++END
